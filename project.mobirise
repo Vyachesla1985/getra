@@ -84,7 +84,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/14-2.png",
+              "src": "@PROJECT_PATH@/assets/images/14-5.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -197,8 +197,9 @@
               "src": "@PROJECT_PATH@/assets/images/logo1-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -216,7 +217,7 @@
             "paddingBottom": "7",
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><span style=\"font-size: 22px;\">GETRA - Эта серия носков и гетр предназначеная специально для самых требовательных к экипировке спортсменов и спортсменок, играющих в хокей, футбол, волейбол, баскетбол, регби, хокей с мячом и т.д. чтобы обеспечить им максимум удовольствия во время игры и тренировок. Мы занимаемся индивидуальным брендированием носков и гетр в цветах и стилистике вашей команды. &nbsp;Все наши изделия производятся из материалов с подтвержденными характеристиками прочности, способности к отводу пота и т.д.</span></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-size: 22px;\">GETRA - Эта серия носков и гетр предназначеная специально для самых требовательных к экипировке спортсменов и спортсменок, играющих в: хокей, футбол, волейбол, баскетбол, регби, хокей с мячом и т.д., чтобы обеспечить им максимум удовольствия во время игры и тренировок. Мы занимаемся индивидуальным брендированием носков и гетр в цветах и стилистике вашей команды. &nbsp;Все наши изделия производятся из материалов с подтвержденными характеристиками прочности, способности к отводу пота и т.д.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -497,7 +498,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "2",
             "paddingBottom": "7",
@@ -772,8 +773,9 @@
               "src": "@PROJECT_PATH@/assets/images/logo1-1.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
-              "title": ""
+              "link": "#top",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
