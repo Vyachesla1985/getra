@@ -263,7 +263,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "46px",
+              "font-size": "36px",
               "color": "#000000"
             }
           },
@@ -302,8 +302,8 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/euro-stadium-stade-de-france.jpg",
@@ -419,8 +419,8 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": "2",
-            "paddingBottom": "4",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/euro-stadium-stade-de-france.jpg",
@@ -577,7 +577,7 @@
             "inverse": true,
             "imageSize": 50,
             "paddingTop": "4",
-            "paddingBottom": "5",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -616,7 +616,7 @@
             }
           },
           "title": "ОПЛАТА И ДОСТАВКА",
-          "text": "Мы принимаем оплату банковскими картами, переводом, через Яндекс.Деньги и PayPal. 100% предоплата\n<br>\n<br>&nbsp;Россия и другие страны:\n<br><br>• Доставка транспортной службой ПЭК от 750 рублей\n<br>\n<br>• Дни отправки: среда и суббота\n<br>\n<br>• Срок и стоимость доставки зависит от удаленности населенного пункта.\n<br><br><b>Возврат\n</b><br><br>Если вам не понравилось изделие, то вы можете вернуть его в течение 14 дней с момента покупки. \n<br><br>Также вы можете обратиться к нам, если обнаружили брак на изделии. Возврат осуществляется в течение 14 дней после покупки.\n<br>\n<br>Чтобы вернуть или обменять изделие, напишите нам на rhnf@mail.ru. Пожалуйста, укажите в письме причину, по которой решили вернуть товар, и напишите ваш номер заказа.<br>",
+          "text": "Мы принимаем оплату банковскими картами, переводом, через Яндекс.Деньги и PayPal. 100% предоплата\n<br>\n<br>&nbsp;Россия и другие страны:\n<br><br>• Доставка транспортной службой ПЭК от 750 рублей\n<br>\n<br>• Дни отправки: среда и суббота\n<br>\n<br>• Срок и стоимость доставки зависит от удаленности населенного пункта.\n<br><br><b>Возврат\n</b><br><br>Обращаем ваше внимание на то, что все изделия возврату и обмену не подлежат.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -641,7 +641,7 @@
             },
             ".mbr-section-title": {
               "color": "#000000",
-              "font-size": "36px"
+              "font-size": "32px"
             }
           },
           "_params": {
@@ -702,7 +702,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/433.jpg",
+                "image": "@PROJECT_PATH@/assets/images/442.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/4-800x540.jpg",
                 "alt": "",
                 "title": "",
@@ -714,7 +714,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/334.jpg",
+                "image": "@PROJECT_PATH@/assets/images/343.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/3-800x540.jpg",
                 "alt": "",
                 "title": "",
@@ -738,7 +738,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/235.jpg",
+                "image": "@PROJECT_PATH@/assets/images/244.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2-800x540.jpg",
                 "alt": "",
                 "title": "",
