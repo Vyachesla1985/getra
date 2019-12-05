@@ -546,6 +546,14 @@ section.form .container {
 #header3-1y .mbr-section-title {
   font-size: 32px;
 }
+#msg-box2-2d .mbr-section-title {
+  color: #fff;
+  text-align: right;
+  font-size: 25px;
+}
+#msg-box2-2d .mbr-section-subtitle {
+  color: #a0a0a0;
+}
 #msg-box5-20 H3 {
   font-family: 'Raleway', sans-serif;
   font-size: 32px;
@@ -632,6 +640,12 @@ section.form .container {
 #header3-29 .mbr-section-title,
 #header3-29 .mbr-section-subtitle {
   text-align: center;
+}
+#form1-2c .form-control-label {
+  color: #232323;
+}
+#form1-2c .mbr-section-title {
+  font-size: 36px;
 }
 #contacts1-25 P {
   text-align: left;
