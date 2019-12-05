@@ -7,7 +7,7 @@
       "title": "Mobirise3",
       "styling": {
         "primaryColor": "#0c7bf7",
-        "secondaryColor": "#bfcecb",
+        "secondaryColor": "#ffffff",
         "successColor": "#41a85f",
         "infoColor": "#7e9b9f",
         "warningColor": "#dd7700",
@@ -33,7 +33,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.6",
     "siteFonts": [],
-    "uniqCompNum": 86,
+    "uniqCompNum": 99,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png",
     "noImageResize": true,
@@ -59,17 +59,17 @@
         {
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": true,
             "inverse": false,
             "showArrow": true,
             "imageSize": 50,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/jeffrey-f-lin-oc8m9cj8dsc-unsplash.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/6M8chw7vIIs?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=6M8chw7vIIs",
@@ -77,7 +77,7 @@
               "height": 720
             },
             "overlay": true,
-            "overlayColor": "#000",
+            "overlayColor": "#000000",
             "overlayOpacity": "0.8"
           },
           "media": {
@@ -102,8 +102,8 @@
             }
           },
           "title": "ГЕТРЫ С КЛУБНОЙ СИМВОЛИКОЙ<br>",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on r",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#header3-1y\" data-toolbar=\"-mbrBtnMove\">ЗАКАЗАТЬ</a>",
+          "text": "БРЕНДИРУЕМ НОСКИ И ГЕТРЫ ДЛЯ СПОРТИВНЫХ КОМАНД&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content2-18\" data-toolbar=\"-mbrBtnMove\">ПОДРОБНЕЕ</a>",
           "_tags": [
             "Theme"
           ],
@@ -117,7 +117,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".mbr-section-text": {
-              "text-align": "left"
+              "text-align": "right",
+              "font-size": "18px"
             },
             ".btn": {
               "font-size": "14px"
@@ -133,13 +134,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#111111",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1y\">КАТАЛОГ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-20\">ОПЛАТА И ДОСТАВКА</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content2-18\">О НАС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html#header3-1y\">ЗАКАЗАТЬ</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-2i\">КАТАЛОГ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-20\">ОПЛАТА И ДОСТАВКА</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-1h\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html#msg-box8-2i\">ЗАКАЗАТЬ</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -172,10 +173,10 @@
               "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#090909!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#111111"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -207,17 +208,17 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-1y\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ГЕТРЫ С КЛУБНОЙ СИМВОЛИКОЙ</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#content2-18\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ГЕТРЫ С КЛУБНОЙ <br>СИМВОЛИКОЙ</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-23"
         },
         {
           "_params": {
             "paddingTop": "7",
-            "paddingBottom": "7",
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><span style=\"font-size: 22px;\">GETRA - Эта серия носков и гетр предназначеная специально для самых требовательных к экипировке спортсменов и спортсменок, играющих в: хокей, футбол, волейбол, баскетбол, регби, хокей с мячом и т.д., чтобы обеспечить им максимум удовольствия во время игры и тренировок. Мы занимаемся индивидуальным брендированием носков и гетр в цветах и стилистике вашей команды. &nbsp;Все наши изделия производятся из материалов с подтвержденными характеристиками прочности, способности к отводу пота и т.д.</span></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-size: 22px; font-style: normal;\"><b>БРЕНДИРУЕМ НОСКИ И ГЕТРЫ ДЛЯ СПОРТИВНЫХ КОМАНД</b></span></p><p><br></p><p><span style=\"font-size: 22px; font-style: normal;\"><b>GETRA</b> - </span><span style=\"font-size: 22px;\">Эта серия носков и гетр предназначеная специально для самых требовательных к экипировке спортсменов и спортсменок, играющих в: хокей, футбол, волейбол, баскетбол, регби, хокей с мячом и т.д., чтобы обеспечить им максимум удовольствия во время игры и тренировок. &nbsp; Все наши изделия производятся из материалов с подтвержденными характеристиками прочности, способности к отводу пота и т.д.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -232,32 +233,67 @@
               "font-size": "22px"
             },
             "P": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"index.html#msg-box8-2m\" data-toolbar=\"-mbrBtnMove\">ПРИМЕРЫ НАШИХ РАБОТ</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2j",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             }
           }
         },
         {
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "32px"
+              "font-size": "46px",
+              "color": "#000000"
             }
           },
           "_params": {
-            "showMeta": false,
-            "paddingTop": "5",
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#fff"
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/kupit-fotooboi-3d-na-stenu-bolshoe-futbolnoe-pole-cn324.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.9"
           },
-          "title": "ВЫБЕРИТЕ МОДЕЛЬ",
-          "meta": "Работаем с 1996 года",
+          "title": "КАТАЛОГ",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-1y"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2i"
         },
         {
           "_params": {
@@ -384,7 +420,7 @@
             "ShowTexts": false,
             "showButtons": false,
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "4",
             "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/euro-stadium-stade-de-france.jpg",
@@ -509,8 +545,8 @@
             "showText": false,
             "showButtons": true,
             "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "3",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/euro-stadium-stade-de-france.jpg",
             "parallax": true,
@@ -521,8 +557,8 @@
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.5"
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.9"
           },
           "title": "У НАС ПРЕДСТАВЛЕНА ВСЯ ЛИНЕЙКА РАЗМЕРОВ ОТ ДЕТСКИХ ДО ВЗРОСЛЫХ",
           "text": "Cut down the development time with drag-and-drop website builder.",
@@ -540,8 +576,8 @@
             "showButtons": false,
             "inverse": true,
             "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "7",
+            "paddingTop": "4",
+            "paddingBottom": "5",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -559,7 +595,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ben-weber-r-krwscxjvq-unsplash.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -592,6 +628,245 @@
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "32px"
+            },
+            "P": {
+              "font-size": "17px"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#000000",
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jeffrey-f-lin-r3v5-rffery-unsplash.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.8"
+          },
+          "title": "ПРИМЕРЫ НАШИХ РАБОТ",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-2m"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": true,
+            "images": [
+              {
+                "tags": "ХОККЕЙ",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-6.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-6-800x540.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "ФУТБОЛ",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/433.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-800x540.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "ВОЛЕЙБОЛ",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-800x540.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "БАСКЕТБОЛ",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-800x540.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "ХОККЕЙ",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/235.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-800x540.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "ФУТБОЛ",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-8.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-8-800x540.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "ВОЛЕЙБОЛ",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-7.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-7-800x540.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "БАСКЕТБОЛ",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/2-9.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-9-800x540.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "ВСЕ",
+          "_name": "gallery4",
+          "_anchor": "gallery4-2l"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ОТЗЫВЫ НАШИХ КЛИЕНТОВ",
+          "subtitle": "ЗДЕСЬ МЫ ПУБЛИКУЕМ ВСЕ ПОСЛЕДНИЕ ОТЗЫВЫ НАШИК КЛИЕНТОВ",
+          "testimonial": [
+            {
+              "authorName": "Екатерина С.",
+              "authorBio": "Детский тренер",
+              "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Александр Н.",
+              "authorBio": "Игрок команды \"Сибирь\"",
+              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Евгений К.",
+              "authorBio": "Игрок команды \"Брест\"",
+              "text": "<p>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-2g",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "32px"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "15px"
             }
           }
         },
@@ -600,8 +875,8 @@
             "showTitle": true,
             "showSubTitle": false,
             "labelsColor": "#ffffff",
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/john-torcasio-oegmaljuoxq-unsplash.jpg",
             "parallax": true,
@@ -609,7 +884,7 @@
             "bgColor": "#787878",
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.8"
+            "overlayOpacity": "0.9"
           },
           "title": "НАПИШИТЕ НАМ<br><br>",
           "subtitle": "ЗДЕСЬ ВЫ МОЖЕТЕ ОФОРМИТЬ ПРЕДВАРИТЕЛЬНЫЙ ЗАКАЗ<br>МЫ СВЯЖЕМСЯ С ВАМИ В БЛИЖАЙШЕЕ ВРЕМЯ",
@@ -652,8 +927,8 @@
             },
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
               "font-size": "24px"
             },
             ".mbr-section-subtitle": {
@@ -663,13 +938,13 @@
         },
         {
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#111111",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -687,14 +962,15 @@
               "linkInNewWindow": false,
               "name": "vkontakte",
               "family": "socicon",
-              "link": "",
+              "link": "#top",
               "size": "45",
               "active": true,
-              "color": "#0c7bf7"
+              "color": "#0c7bf7",
+              "newWindow": false
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Raleway, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Адрес</b></span></font><br>658200 Россия\n<br>Алтайский край, г.Рубцовск \n<br>ул. Комсомольская, 257<br>",
-          "text2": "<font color=\"#7c7c7c\" face=\"Raleway, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Контакты</b></span></font><br>Email: rhnf@mail.ru\n<br>Phone: +7 905 984 3391&nbsp;<br>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Raleway, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Контакты</b></span></font><br>Email: rhnf@mail.ru\n<br>Телефон: +7 905 984 3391&nbsp;<br>",
           "text3": "",
           "_tags": [
             "Theme"
@@ -719,7 +995,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#111111",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -729,7 +1005,12 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-1f"
+          "_anchor": "footer1-1f",
+          "_styles": {
+            "P": {
+              "color": "#c1c1c1"
+            }
+          }
         }
       ]
     },
@@ -749,13 +1030,13 @@
             "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "bgColor": "#111111",
+            "bgColor": "#000000",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1y\">КАТАЛОГ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-20\">ОПЛАТА И ДОСТАВКА</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content2-18\">О НАС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html#header3-1y\">ЗАКАЗАТЬ</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-2i\">КАТАЛОГ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-20\">ОПЛАТА И ДОСТАВКА</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-1h\">КОНТАКТЫ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"index.html#msg-box8-2i\">ЗАКАЗАТЬ</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -788,10 +1069,10 @@
               "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#090909!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#111111"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -823,7 +1104,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header3-1y\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ГЕТРЫ С КЛУБНОЙ СИМВОЛИКОЙ</a>",
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#content2-18\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ГЕТРЫ С КЛУБНОЙ <br>СИМВОЛИКОЙ</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-24"
         },
@@ -835,7 +1116,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#111111",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
@@ -845,7 +1126,12 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-26"
+          "_anchor": "footer1-26",
+          "_styles": {
+            "P": {
+              "color": "#c1c1c1"
+            }
+          }
         },
         {
           "_styles": {
@@ -962,13 +1248,13 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#ffffff",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ФОРМА ЗАКАЗА",
-          "subtitle": "УКАЖИТЕ СВОИ КОНТАКТНЫЕ ДАННЫЕ<br>И НАШ МЕНЕДЖЕР СВЯЖЕТЬСЯ С ВАМИ В БЛИЖАЙШЕЕ ВРЕМЯ",
+          "title": "ФОРМА ЗАКАЗА<br><br>",
+          "subtitle": "<span style=\"font-style: normal;\">УКАЖИТЕ СВОИ КОНТАКТНЫЕ ДАННЫЕ<br>И НАШ МЕНЕДЖЕР СВЯЖЕТЬСЯ С ВАМИ В БЛИЖАЙШЕЕ ВРЕМЯ</span>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>",
           "form": {
             "action": "rhnf@mail.ru",
@@ -1007,19 +1293,31 @@
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "font-size": "30px"
+              "font-size": "25px",
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle SPAN": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "16px"
             }
           }
         },
         {
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#111111",
+            "bgColor": "#000000",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
@@ -1037,14 +1335,15 @@
               "linkInNewWindow": false,
               "name": "vkontakte",
               "family": "socicon",
-              "link": "",
+              "link": "#top",
               "size": "45",
               "active": true,
-              "color": "#0c7bf7"
+              "color": "#0c7bf7",
+              "newWindow": false
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Raleway, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Адрес</b></span></font><br>658200 Россия\n<br>Алтайский край, г.Рубцовск \n<br>ул. Комсомольская, 257<br>",
-          "text2": "<font color=\"#7c7c7c\" face=\"Raleway, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Контакты</b></span></font><br>Email: rhnf@mail.ru\n<br>Phone: +7 905 984 3391&nbsp;<br>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Raleway, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Контакты</b></span></font><br>Email: rhnf@mail.ru\n<br>Телефон: +7 905 984 3391&nbsp;<br>",
           "text3": "",
           "_tags": [
             "Theme"
