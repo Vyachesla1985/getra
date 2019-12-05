@@ -218,7 +218,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p><span style=\"font-size: 22px; font-style: normal;\"><b>БРЕНДИРУЕМ НОСКИ И ГЕТРЫ ДЛЯ СПОРТИВНЫХ КОМАНД</b></span></p><p><br></p><p><span style=\"font-size: 22px; font-style: normal;\"><b>GETRA</b> - </span><span style=\"font-size: 22px;\">Эта серия носков и гетр предназначеная специально для самых требовательных к экипировке спортсменов и спортсменок, играющих в: хокей, футбол, волейбол, баскетбол, регби, хокей с мячом и т.д., чтобы обеспечить им максимум удовольствия во время игры и тренировок. &nbsp; Все наши изделия производятся из материалов с подтвержденными характеристиками прочности, способности к отводу пота и т.д.</span></p></blockquote>",
+          "text": "<blockquote><p><span style=\"font-size: 22px; font-style: normal;\"><b>БРЕНДИРУЕМ НОСКИ И ГЕТРЫ ДЛЯ СПОРТИВНЫХ КОМАНД</b></span></p><p><br></p><p><span style=\"font-size: 22px; font-style: normal;\"><b>GETRA</b> - </span><span style=\"font-size: 22px;\">Эта серия носков и гетр предназначеная специально для самых требовательных к экипировке спортсменов и спортсменок, играющих в: хоккей, футбол, волейбол, баскетбол, регби, хоккей с мячом и т.д., чтобы обеспечить им максимум удовольствия во время игры и тренировок. &nbsp; Все наши изделия производятся из материалов с подтвержденными характеристиками прочности, способности к отводу пота и т.д.</span></p></blockquote>",
           "_tags": [
             "Theme"
           ],
@@ -702,7 +702,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/442.jpg",
+                "image": "@PROJECT_PATH@/assets/images/457.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/4-800x540.jpg",
                 "alt": "",
                 "title": "",
@@ -714,7 +714,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/343.jpg",
+                "image": "@PROJECT_PATH@/assets/images/358.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/3-800x540.jpg",
                 "alt": "",
                 "title": "",
@@ -738,7 +738,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/244.jpg",
+                "image": "@PROJECT_PATH@/assets/images/259.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2-800x540.jpg",
                 "alt": "",
                 "title": "",
