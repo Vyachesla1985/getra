@@ -859,7 +859,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "title": "Title with Solid Background Color",
+          "title": "Название и основная информация о товаре",
           "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
@@ -967,7 +967,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ФОРМА ЗАКАЗАЗА",
+          "title": "ФОРМА ЗАКАЗА",
           "subtitle": "УКАЖИТЕ СВОИ КОНТАКТНЫЕ ДАННЫЕ<br>И НАШ МЕНЕДЖЕР СВЯЖЕТЬСЯ С ВАМИ В БЛИЖАЙШЕЕ ВРЕМЯ",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>",
           "form": {
@@ -1007,7 +1007,7 @@
               "color": "#232323"
             },
             ".mbr-section-title": {
-              "font-size": "36px"
+              "font-size": "30px"
             }
           }
         },
