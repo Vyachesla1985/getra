@@ -701,7 +701,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/40.jpg",
+                "image": "@PROJECT_PATH@/assets/images/43.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/4-800x540.jpg",
                 "alt": "",
                 "title": "",
@@ -713,7 +713,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/34.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/3-800x540.jpg",
                 "alt": "",
                 "title": "",
@@ -737,7 +737,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/25.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2-800x540.jpg",
                 "alt": "",
                 "title": "",
@@ -866,72 +866,6 @@
             },
             ".mbr-section-subtitle": {
               "font-size": "15px"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": false,
-            "labelsColor": "#ffffff",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/john-torcasio-oegmaljuoxq-unsplash.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#787878",
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.9"
-          },
-          "title": "НАПИШИТЕ НАМ<br><br>",
-          "subtitle": "ЗДЕСЬ ВЫ МОЖЕТЕ ОФОРМИТЬ ПРЕДВАРИТЕЛЬНЫЙ ЗАКАЗ<br>МЫ СВЯЖЕМСЯ С ВАМИ В БЛИЖАЙШЕЕ ВРЕМЯ",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">ОТПРАВИТЬ</a>",
-          "form": {
-            "action": "3dsocks.ru@mail.ru",
-            "alerts": {
-              "success": "Спасибо! Мы сваяжемся с Вами в ближайшее время. "
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Ваше Имя"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Телефон"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Сообщение"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-9",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#ffffff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "font-size": "24px"
-            },
-            ".mbr-section-subtitle": {
-              "font-size": "18px"
             }
           }
         },
