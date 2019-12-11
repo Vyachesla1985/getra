@@ -606,6 +606,7 @@ section.form .container {
 
 
 
+
 #ext_menu-24 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -674,6 +675,9 @@ section.form .container {
 #header3-29 .mbr-section-subtitle {
   text-align: center;
 }
+#gallery2-27 LI {
+  font-family: 'Raleway', sans-serif;
+}
 #form1-2c .form-control-label {
   color: #232323;
 }
@@ -691,6 +695,83 @@ section.form .container {
   font-size: 16px;
 }
 #contacts1-25 P {
+  text-align: left;
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  color: #ffffff;
+}
+
+#header5-2y .mbr-section-title {
+  color: #000;
+}
+#header5-2y .mbr-section-lead {
+  color: #9c9a9a;
+}
+#ext_menu-2r .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-2r .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-2r .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-2r .close-icon::before,
+#ext_menu-2r .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-2r .link,
+#ext_menu-2r .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-2r .link {
+  font-size: 0.75rem;
+}
+#ext_menu-2r .dropdown-item,
+#ext_menu-2r .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-2r .link:hover,
+#ext_menu-2r .dropdown-item:hover,
+#ext_menu-2r .link:focus,
+#ext_menu-2r .dropdown-item:focus {
+  color: #0c7bf7;
+}
+#ext_menu-2r .link[aria-expanded="true"],
+#ext_menu-2r .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-2r .nav-dropdown-sm .link:focus,
+#ext_menu-2r .nav-dropdown-sm .link:hover,
+#ext_menu-2r .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-2r .nav-dropdown-sm .dropdown-item:hover {
+  background: #000000!important;
+}
+#ext_menu-2r .navbar,
+#ext_menu-2r .nav-dropdown-sm,
+#ext_menu-2r .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-2r .nav-dropdown-sm .dropdown-menu {
+  background: #000000;
+}
+#ext_menu-2r .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-2r .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-2r .bg-color.transparent.opened .link:hover,
+#ext_menu-2r .bg-color.transparent.opened .link:focus {
+  color: #0c7bf7;
+}
+#ext_menu-2r .link[aria-expanded="true"],
+#ext_menu-2r .dropdown-item[aria-expanded="true"] {
+  color: #0c7bf7!important;
+}
+#footer1-2s P {
+  color: #c1c1c1;
+}
+#contacts1-2x P {
   text-align: left;
   font-family: 'Lato', sans-serif;
   font-size: 15px;
